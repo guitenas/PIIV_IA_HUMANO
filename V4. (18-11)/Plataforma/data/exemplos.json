@@ -1,0 +1,37 @@
+[
+ {
+  "titulo": "Humano · Notícias",
+  "origem": "conjunto de teste",
+  "texto": "A partir das 20:45h os sobreviventes jogam as partidas de volta da competição, de olho nas finais e na Taça Libertadores de 2006. O Treze enfrenta o Fluminense hoje em João Pessoa, na Paraíba, dependendo de uma vitória com diferença de dois gols para se classificar para as semifinais. O Flu já garante sua vaga mesmo perdendo por um gol de diferença. Mas a partida tirou o sono do Fluminense na noite passada. O técnico Abel Braga, durante entrevista na manhã desta quarta-feira afirmou que os torcedores do Treze perturbaram a concentração do Fluminense, em João Pessoa, na última noite."
+ },
+ {
+  "titulo": "IA (Phi-3.5 mini) · Notícias",
+  "origem": "conjunto de teste",
+  "texto": "Em uma demonstração de poder coletivo e demanda por melhores condições de trabalho, aproximadamente 5,8 mil policiais civis de Pernambuco decidiram emanar uma greve nesta segunda-feira. A paralisação foi anunciada para enfatizar a necessidade de reformas que melhorem a infraestrutura e a segurança dos servidores. Com uma história de forte comprometimento com a segurança pública, esses profissionais exigem um salário justo e melhores equipamentos de proteção, além de mais recursos humanos para atender às demandas crescentes dos distritos. A decisão de entrar em greve teve como consequência uma série de protestos em vários pontos da capital, Recife, além de outros"
+ },
+ {
+  "titulo": "IA (Qwen 2.5 1.5B) · Notícias",
+  "origem": "conjunto de teste",
+  "texto": "\"Bin revela o verdadeiro motivo para sair de 'BBB 24': Não quer mais relacionamentos\" O reality show \"BBB 24\" não teve como protagonista o casal Joaquim (Joaquim B) e Ana Paula (Ana Paula Tavares). A confidencialmente revelou sua própria história de amor em entrevistas exclusivas durante a edição. Quando perguntado sobre os motivos por trás do fim de seu romance com Ana Paula, Bin respondeu: \"Eu não quero mais relacionamento\". A revelação surpreendeu muitos fãs de \"BBB\", que se imaginavam que Bin teria sido enganado pela namorada de longa data, Maria Eduarda, na casa dos sertanejos. O reality apresenta dois"
+ },
+ {
+  "titulo": "Humano · Wikipédia",
+  "origem": "conjunto de teste",
+  "texto": "Deuzeni Trisoglio Goldman (Tupã, 6 de setembro de 1951) é uma advogada, decoradora e paisagista brasileira, que foi primeira-dama do estado de São Paulo entre abril de 2010 e janeiro de 2011. Deuzeni nasceu no município de Tupã, interior de São Paulo em 6 de setembro de 1951. Foi casada durante 32 anos com o ex-governador Alberto Goldman, com quem teve dois filhos, três enteados e três netas. Possui uma formação acadêmica que inclui graduação em direito pela Pontifícia Universidade Católica. (PUC) e Pós-graduação em Direito Empresarial pala Universidade Presbiteriana Mackenzie. Possui extensa trajetória profissional, que inclui atividades de coordenação"
+ },
+ {
+  "titulo": "IA (Phi-3.5 mini) · Wikipédia",
+  "origem": "conjunto de teste",
+  "texto": "O Sabino (procurador) é um termo que remete à figura do procurador, um indivíduo que se responsabiliza pelo ato de buscar e recuperar bens ou propriedades em nome de outra pessoa. Este papel pode assumir diferentes formas, dependendo das legislações e contextos sociais. Historicamente, o procurador era uma figura preponderante nos sistemas jurídicos, atuando como um intermediário legal que podia representar seus clientes em transações, litígios ou gestão de ativos. No campo civil, o procurador pode se envolver em contratos, aquisições ou mesmo defender direitos patrimoniais. Em contextos legais complexos, sua expertise é crucial para a manutenção da integridade e"
+ },
+ {
+  "titulo": "IA (Qwen 2.5 1.5B) · Wikipédia",
+  "origem": "conjunto de teste",
+  "texto": "Jonas Sulzbach (1963-) é um empresário brasileiro nascido no Rio de Janeiro. Com uma trajetória profissional envolvida no setor imobiliário, ele se distinguiu ao fundar a empresa JSM Imóveis em São Paulo. Suas iniciativas contribuíram significativamente para o crescimento da região econômica local, especialmente na área de investimentos imobiliários. Sob seu leadership, a JSM Imóveis tornou-se referência em práticas sustentáveis no mercado imobiliário brasileiro. A sua dedicação à excelência no atendimento aos clientes e compromisso com a responsabilidade social são alguns dos aspectos mais destacados de sua carreira. Além disso, Jonas Sulzbach também tem sido reconhecido pela sua participação ativa"
+ },
+ {
+  "titulo": "IA (Gemini: gerador externo, nunca visto no treino)",
+  "origem": "teste de robustez",
+  "texto": "O termo alérgico refere-se a um indivíduo que apresenta uma condição de hipersensibilidade do sistema imunológico a substâncias específicas, conhecidas como alérgenos, que são geralmente inofensivas para a maior parte da população. Quando uma pessoa alérgica entra em contato com esses agentes, como pólen, ácaros, determinados alimentos, medicamentos ou pelos de animais, o seu organismo reage de forma exacerbada, desencadeando uma série de processos inflamatórios mediados principalmente pela produção de anticorpos da classe imunoglobulina E. Essa resposta imunitária pode manifestar-se por meio de sintomas clínicos variados, que oscilam desde irritações cutâneas leves, espirros e prurido até quadros sistêmicos graves, como"
+ }
+]

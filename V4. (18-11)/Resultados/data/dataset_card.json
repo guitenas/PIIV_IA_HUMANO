@@ -1,0 +1,61 @@
+{
+  "nome": "Autoria humano vs IA (PT-BR)",
+  "criado_em": "2026-11-18T23:01:04",
+  "autores": [
+    "Allan Vytor Francisco Oliveira",
+    "Gabriel Passos",
+    "Guilherme Tenório Cavalcante"
+  ],
+  "fontes_humanas": {
+    "wiki": "wikimedia/wikipedia 20231101.pt",
+    "noticias": "HuggingFaceFW/fineweb-2 por_Latn (portais de notícias brasileiros)"
+  },
+  "geradores": {
+    "qwen": "Qwen/Qwen2.5-1.5B-Instruct",
+    "phi": "microsoft/Phi-3.5-mini-instruct"
+  },
+  "parametros": {
+    "N_PER_DOMAIN": 300,
+    "TRUNC_WORDS": 100,
+    "seed": 42,
+    "FILTROS_APOS_CORTE": true
+  },
+  "n_textos": 1198,
+  "n_pares": 599,
+  "por_dominio_e_fonte": {
+    "human": {
+      "noticias": 320,
+      "wiki": 279
+    },
+    "phi": {
+      "noticias": 167,
+      "wiki": 152
+    },
+    "qwen": {
+      "noticias": 153,
+      "wiki": 127
+    }
+  },
+  "auditoria_limpeza": {
+    "IA": {
+      "curto_demais": 52,
+      "idioma_ou_alfabeto": 4,
+      "meta_llm_ou_recusa": 18,
+      "caracteres_anormais": 0,
+      "repeticao_degenerada": 0,
+      "duplicata": 0,
+      "par_incompleto": 17,
+      "MANTIDO": 599
+    },
+    "humano": {
+      "curto_demais": 0,
+      "idioma_ou_alfabeto": 15,
+      "meta_llm_ou_recusa": 1,
+      "caracteres_anormais": 5,
+      "repeticao_degenerada": 2,
+      "duplicata": 0,
+      "par_incompleto": 68,
+      "MANTIDO": 599
+    }
+  }
+}

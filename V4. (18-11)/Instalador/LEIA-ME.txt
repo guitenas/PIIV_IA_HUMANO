@@ -1,0 +1,31 @@
+HUMANO OU IA? - Plataforma de análise de autoria textual
+Projeto Integrador IV - FATEC Jundiaí
+Allan Vytor Francisco Oliveira, Gabriel Passos e Guilherme Tenório Cavalcante
+
+O resultado da plataforma é uma ESTIMATIVA EXPERIMENTAL, não uma prova de autoria.
+
+REQUISITOS
+- Windows 10 ou 11, 64 bits
+- Cerca de 1,4 GB livres em disco e 4 GB de memória RAM
+- Não precisa de Python, de internet nem de permissão de administrador
+
+INSTALAR
+1. Execute HumanoOuIA_Setup_1.0.0.exe.
+   Se o Windows mostrar "O Windows protegeu o computador", clique em
+   "Mais informações" e depois em "Executar assim mesmo". O aviso aparece
+   porque o instalador não tem assinatura digital paga.
+2. Siga o assistente (Avançar > Instalar > Concluir).
+
+USAR
+1. Abra "Humano ou IA" pelo menu Iniciar ou pelo atalho na Área de Trabalho.
+2. Uma janela preta se abre (é o servidor local da plataforma). Em cerca de
+   15 a 50 segundos, o navegador abre sozinho no endereço http://127.0.0.1:7860
+   (se não abrir, copie o endereço que aparece na janela preta).
+3. Cole um texto em português (ideal: 100 palavras ou mais) e clique em Analisar.
+   Há exemplos prontos abaixo do botão.
+4. Para ENCERRAR, feche a janela preta.
+
+Tudo roda neste computador: nenhum texto é enviado para a internet.
+
+DESINSTALAR
+Configurações > Aplicativos > "Humano ou IA?" > Desinstalar.

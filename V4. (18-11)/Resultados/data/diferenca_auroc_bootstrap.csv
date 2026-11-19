@@ -1,0 +1,3 @@
+modelo A,modelo B,AUROC A - B,IC95% inf,IC95% sup,leitura
+BERTimbau (fine-tuning),TF-IDF palavras + SVM,0.0102,-0.0123,0.0358,IC contém 0: sem diferença clara
+TF-IDF palavras + SVM,Estilométrico + LR,0.0494,0.0165,0.087,A melhor que B
