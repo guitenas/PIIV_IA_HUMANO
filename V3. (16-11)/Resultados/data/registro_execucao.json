@@ -1,0 +1,43 @@
+{
+  "data": "2026-11-16T02:35:27",
+  "duracao_min": 62.8,
+  "gpu": "Tesla T4",
+  "quick_mode": false,
+  "dataset_bruto_em_cache": true,
+  "filtros_apos_corte": true,
+  "gemini_executado": true,
+  "gemini_modelo": "gemini-3.8-flash",
+  "seed": 42,
+  "sementes_bertimbau": [
+    42,
+    7,
+    2026
+  ],
+  "versoes": {
+    "python": "3.13.16",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "sklearn": "1.6.1",
+    "scipy": "1.16.3",
+    "torch": "2.14.1+cu130",
+    "transformers": "5.22.1",
+    "joblib": "1.6.0",
+    "datasets": "4.8.5",
+    "accelerate": "1.15.0",
+    "google-genai": "2.12.1"
+  },
+  "particoes": {
+    "train": {
+      "humano": 419,
+      "IA": 419
+    },
+    "val": {
+      "humano": 90,
+      "IA": 90
+    },
+    "test": {
+      "humano": 90,
+      "IA": 90
+    }
+  }
+}

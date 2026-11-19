@@ -1,6 +1,15 @@
 # PIIV_IA_HUMANO
 Repositório para o desenvolvimento do projeto integrador em suas respectivas versões
 
+| Versão | Data | Conteúdo |
+|---|---|---|
+| [`V1. (08-11)`](V1.%20(08-11)) | 08/11 | Primeira versão do artigo e do notebook |
+| [`V2. (15-11)`](V2.%20(15-11)) | 15/11 | Notebook V2 |
+| [`V3. (16-11)`](V3.%20(16-11)) | 16/11 | Artigo V3, notebook V3 e resultados (tabelas e figuras) |
+| [`V4. (18-11)`](V4.%20(18-11)) | 18/11 | **Versão entregue**: artigo V4, notebook, apresentação, plataforma e instalador (detalhes abaixo) |
+
+Os CSVs com o texto integral do corpus não estão em nenhuma das versões (veja o fim desta página).
+
 ## V4 (18-11): Humano ou IA? Plataforma de análise de autoria textual
 
 Projeto Integrador IV · FATEC Jundiaí
